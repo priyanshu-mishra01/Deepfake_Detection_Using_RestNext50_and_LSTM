@@ -25,7 +25,7 @@ Deepfake_detection_using_deep_learning
    
 ## 3. System Architecture
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/priyanshu-mishra01/Deepfake_Detection_Using_RestNext50_and_LSTM/blob/master/github_assets/System%20Architecture.png" />
 </p>
 
 
