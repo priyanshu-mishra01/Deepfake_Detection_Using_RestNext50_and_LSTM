@@ -40,10 +40,6 @@ Deepfake_detection_using_deep_learning
 |model_91_acc_80_frames_final_data.pt | 6000 | 80 | 91.49818 |
 |model_93_acc_100_frames_final_data.pt| 6000 | 100 | 93.58794|
 
-## 6. Contributors
-   1. Ayush Kumar Mishra
-   2. Harianant Sinha
-   3. Ayushi Setiya
-   4. Ishan Sahai
+
 
    
